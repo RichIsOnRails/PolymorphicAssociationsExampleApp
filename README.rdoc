@@ -1,1 +1,1 @@
-Polymorphic Associations Example App.  See http://richonrails.com/articles//polymorphic-associations-in-rails for details.
+Polymorphic Associations Example App.  See http://richonrails.com/articles/polymorphic-associations-in-rails for details.
